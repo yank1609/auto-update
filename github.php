@@ -20,4 +20,6 @@ if ($payload->ref === 'refs/heads/master')
   file_put_contents('log.txt', exec('/bin/sh /var/www/web/auto-update/git.sh >> log.txt'), FILE_APPEND);
 }
 
+echo exec('cd /var/www/web/auto-update && /usr/lib/git-core/git pull && pwd >> error.txt'); 
+echo exec("whoami");
 ?>
