@@ -3,7 +3,7 @@ $date = strftime('%c');
 file_put_contents('log.txt', PHP_EOL.trim($date).PHP_EOL, FILE_APPEND);
 try
 {
-  $payload = json_decode($_REQUEST['payload']);
+  $payload = json_decode(stripslashes($_REQUEST['payload']));
 }
 catch(Exception $e)
 {

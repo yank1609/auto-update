@@ -1,0 +1,151 @@
+
+Tue Aug 13 01:59:40 2013
+stdClass Object
+(
+    [ref] => refs/heads/master
+    [after] => 085a2706a512b17209abb35ba6b404e64bb7e86f
+    [before] => 713cbb300478ebebbaa18902ead5c247b8a358de
+    [created] => 
+    [deleted] => 
+    [forced] => 
+    [compare] => https://github.com/yank1609/auto-update/compare/713cbb300478...085a2706a512
+    [commits] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => d7e34ad5a651ab251b0a1fec3716ebc2d457704e
+                    [distinct] => 1
+                    [message] => revise
+                    [timestamp] => 2013-08-12T22:59:13-07:00
+                    [url] => https://github.com/yank1609/auto-update/commit/d7e34ad5a651ab251b0a1fec3716ebc2d457704e
+                    [author] => stdClass Object
+                        (
+                            [name] => root
+                            [email] => root@hms.(none)
+                        )
+
+                    [committer] => stdClass Object
+                        (
+                            [name] => root
+                            [email] => root@hms.(none)
+                        )
+
+                    [added] => Array
+                        (
+                        )
+
+                    [removed] => Array
+                        (
+                        )
+
+                    [modified] => Array
+                        (
+                            [0] => github.php
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 085a2706a512b17209abb35ba6b404e64bb7e86f
+                    [distinct] => 1
+                    [message] => Merge branch 'master' of github.com:yank1609/auto-update
+                    [timestamp] => 2013-08-12T22:59:23-07:00
+                    [url] => https://github.com/yank1609/auto-update/commit/085a2706a512b17209abb35ba6b404e64bb7e86f
+                    [author] => stdClass Object
+                        (
+                            [name] => root
+                            [email] => root@hms.(none)
+                        )
+
+                    [committer] => stdClass Object
+                        (
+                            [name] => root
+                            [email] => root@hms.(none)
+                        )
+
+                    [added] => Array
+                        (
+                        )
+
+                    [removed] => Array
+                        (
+                        )
+
+                    [modified] => Array
+                        (
+                            [0] => test2.txt
+                        )
+
+                )
+
+        )
+
+    [head_commit] => stdClass Object
+        (
+            [id] => 085a2706a512b17209abb35ba6b404e64bb7e86f
+            [distinct] => 1
+            [message] => Merge branch 'master' of github.com:yank1609/auto-update
+            [timestamp] => 2013-08-12T22:59:23-07:00
+            [url] => https://github.com/yank1609/auto-update/commit/085a2706a512b17209abb35ba6b404e64bb7e86f
+            [author] => stdClass Object
+                (
+                    [name] => root
+                    [email] => root@hms.(none)
+                )
+
+            [committer] => stdClass Object
+                (
+                    [name] => root
+                    [email] => root@hms.(none)
+                )
+
+            [added] => Array
+                (
+                )
+
+            [removed] => Array
+                (
+                )
+
+            [modified] => Array
+                (
+                    [0] => test2.txt
+                )
+
+        )
+
+    [repository] => stdClass Object
+        (
+            [id] => 12073787
+            [name] => auto-update
+            [url] => https://github.com/yank1609/auto-update
+            [description] => auto-update
+            [watchers] => 0
+            [stargazers] => 0
+            [forks] => 0
+            [fork] => 
+            [size] => 100
+            [owner] => stdClass Object
+                (
+                    [name] => yank1609
+                    [email] => yayang.septian@sientifikadev.com
+                )
+
+            [private] => 
+            [open_issues] => 0
+            [has_issues] => 1
+            [has_downloads] => 1
+            [has_wiki] => 1
+            [created_at] => 1376370565
+            [pushed_at] => 1376373604
+            [master_branch] => master
+        )
+
+    [pusher] => stdClass Object
+        (
+            [name] => yank1609
+            [email] => yayang.septian@sientifikadev.com
+        )
+
+)
