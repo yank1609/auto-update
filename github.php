@@ -14,9 +14,9 @@ catch(Exception $e)
 file_put_contents('log.txt', print_r($payload, TRUE), FILE_APPEND);
 
 //EXECUTE A SCRIPT WHEN THE POST REQUEST IS INITIALIZED
-//if ($payload->ref === 'refs/heads/master')
-//{
-//  exec('deploy.sh >> log.txt');
-//}
+if ($payload->ref === 'refs/heads/master')
+{
+  exec('/var/www/web/auto-update/git.sh >> log.txt');
+}
 
 ?>
