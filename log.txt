@@ -1,1 +1,118 @@
 ---
+
+Tue Aug 13 02:25:54 2013
+stdClass Object
+(
+    [ref] => refs/heads/master
+    [after] => a3a6c23315cb8ddf831fdde843b034721843fbad
+    [before] => 896d3ad1d05f4789fc99ab955075b49177719d3b
+    [created] => 
+    [deleted] => 
+    [forced] => 
+    [compare] => https://github.com/yank1609/auto-update/compare/896d3ad1d05f...a3a6c23315cb
+    [commits] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => a3a6c23315cb8ddf831fdde843b034721843fbad
+                    [distinct] => 1
+                    [message] => Revise
+                    [timestamp] => 2013-08-12T23:25:40-07:00
+                    [url] => https://github.com/yank1609/auto-update/commit/a3a6c23315cb8ddf831fdde843b034721843fbad
+                    [author] => stdClass Object
+                        (
+                            [name] => root
+                            [email] => root@hms.(none)
+                        )
+
+                    [committer] => stdClass Object
+                        (
+                            [name] => root
+                            [email] => root@hms.(none)
+                        )
+
+                    [added] => Array
+                        (
+                        )
+
+                    [removed] => Array
+                        (
+                        )
+
+                    [modified] => Array
+                        (
+                            [0] => log.txt
+                        )
+
+                )
+
+        )
+
+    [head_commit] => stdClass Object
+        (
+            [id] => a3a6c23315cb8ddf831fdde843b034721843fbad
+            [distinct] => 1
+            [message] => Revise
+            [timestamp] => 2013-08-12T23:25:40-07:00
+            [url] => https://github.com/yank1609/auto-update/commit/a3a6c23315cb8ddf831fdde843b034721843fbad
+            [author] => stdClass Object
+                (
+                    [name] => root
+                    [email] => root@hms.(none)
+                )
+
+            [committer] => stdClass Object
+                (
+                    [name] => root
+                    [email] => root@hms.(none)
+                )
+
+            [added] => Array
+                (
+                )
+
+            [removed] => Array
+                (
+                )
+
+            [modified] => Array
+                (
+                    [0] => log.txt
+                )
+
+        )
+
+    [repository] => stdClass Object
+        (
+            [id] => 12073787
+            [name] => auto-update
+            [url] => https://github.com/yank1609/auto-update
+            [description] => auto-update
+            [watchers] => 0
+            [stargazers] => 0
+            [forks] => 0
+            [fork] => 
+            [size] => 166
+            [owner] => stdClass Object
+                (
+                    [name] => yank1609
+                    [email] => yayang.septian@sientifikadev.com
+                )
+
+            [private] => 
+            [open_issues] => 0
+            [has_issues] => 1
+            [has_downloads] => 1
+            [has_wiki] => 1
+            [created_at] => 1376370565
+            [pushed_at] => 1376375179
+            [master_branch] => master
+        )
+
+    [pusher] => stdClass Object
+        (
+            [name] => yank1609
+            [email] => yayang.septian@sientifikadev.com
+        )
+
+)
